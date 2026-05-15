@@ -28,3 +28,11 @@ This project supports the idea of equal opportunities for all genders in workpla
 ✅ Calculates gender gap automatically
 ✅ Simple and beginner-friendly C++ code
 ✅ Easy to customize with new datasets
+
+## Team Members
+. R. mani deepika
+. A. manali
+. R. lahari 
+. D. Srikanth
+. D. Gowri charan
+. P. Satya sai verra varun teja
